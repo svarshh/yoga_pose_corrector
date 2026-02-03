@@ -17,7 +17,7 @@ Clone this repository using your terminal:
 
 Once cloned the repository, create a Python virtual environment for this project:
 
-```cd Audio-Sentiment-Analysis```
+```cd yoga_pose_corrector```
 
 ```python3 -m venv venv```
 
