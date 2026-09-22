@@ -1,11 +1,12 @@
 # Yoga Pose Correction App
 
-This project uses Google MediaPipe and a Deep Neural Network to classify yoga poses and provide form correction.
+This project uses Google MediaPipe and a Deep Neural Network to classify yoga poses and provide form correction in a yoga video.  
 
 ### Project Highlights
 * **Peak Model Accuracy:** 82.37% on 40 distinct yoga poses.
 * **Architecture:** Deep Dense Neural Network (MLP) trained on 132 skeletal landmark features.
 * **Performance:** Real-time classification via 33 3D skeletal landmarks.
+* **Presentation** Presentation with further details can be found [here](presentation.pdf)
 
 ### Design & Prototyping
 The original UI design is available at: [Figma Design Link](https://www.figma.com/design/5slFhwVuY2TMaVxNOGOFqL/Yoga-Pose-Correction-App)
